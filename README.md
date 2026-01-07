@@ -41,7 +41,7 @@ Vercel now has 100GB of free traffic per month.
 If you think this tool is good, please gently click the **Star** button in the upper right corner at this page to increase the project exposure, thank you! The software is completely free (except for commercial use), only ask everyone to Star and promote it to other friends in need, thank you!    
 
 ## 部署
-[![Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/l429609201/vercel-api) 
+[![Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/l429609201/vercel-danmuku-api) 
 
 
 ## 使用方法
